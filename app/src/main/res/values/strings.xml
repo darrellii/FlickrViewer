@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Flickr Viewer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- current texts -->
+    <string name="title_activity_main">Flickr Activity</string>
+    <string name="welcome">Welcome to Flickr Viewer</string>
+    <string name="welcome_sub">A quick example from DJ Todd</string>
+    <string name="photo_stream">Photo Stream</string>
+    <string name="my_photo">My Photos</string>
+    <string name="menu_item">menu item</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="title_activity_full_screen_image">Photo</string>
+    <string name="my_favorites">My Favorites</string>
+    <string name="log_out">Log Out</string>
+</resources>
